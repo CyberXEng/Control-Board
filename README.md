@@ -5,7 +5,7 @@ Install all required libraries from the `requirements.txt` file using: <br/>
 
 # Description<br/>
 The Semi Control Board is a multifunctional application designed for efficient file and folder management with built-in security features and an integrated text editor. Whether you’re organizing files, protecting sensitive data, or editing documents, this program offers a balanced combination of practicality, control, and usability.<br/>
-![App Screenshot](images/555.png)<br/>
+![App Screenshot](images/111.png)<br/>
 ## 🔑 Core Features:<br/>
 
 ### 1-) Encryption (Symmetric & Asymmetric)
